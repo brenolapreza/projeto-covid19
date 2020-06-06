@@ -1,13 +1,16 @@
 import React from 'react';
-import Modulo from './components/modulo'
-import Nav from './components/nav'
+import Routes from './routes';
 
 function App() {
   return (
+
+    <Routes />
+
     <div className="App">
       
       <Modulo/> 
     </div>
+
   );
 }
 
