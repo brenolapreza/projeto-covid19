@@ -1,16 +1,9 @@
 import React from 'react';
-import Routes from './routes';
+import Routess from './routes';
 
 function App() {
   return (
-
-    <Routes />
-
-    <div className="App">
-      
-      <Modulo/> 
-    </div>
-
+    <Routess />
   );
 }
 
