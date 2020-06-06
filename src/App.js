@@ -3,7 +3,14 @@ import Routes from './routes';
 
 function App() {
   return (
+
     <Routes />
+
+    <div className="App">
+      
+      <Modulo/> 
+    </div>
+
   );
 }
 

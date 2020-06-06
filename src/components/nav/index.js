@@ -24,7 +24,6 @@ class Nav extends React.Component {
                             <div className="nav-mobile-back">
                                 <li><a href="/">Home</a></li>
                                 <li><a href="/">Pesquisar</a></li>
-                                <li><a href="/">COVID-19</a></li>
                                 <li><a href="/">Sobre</a></li>
                                 <li><a href="/">Contato</a></li>
                             </div>
