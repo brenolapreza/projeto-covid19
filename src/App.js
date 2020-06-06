@@ -1,13 +1,9 @@
 import React from 'react';
-import Modulo from './components/modulo'
-import Nav from './components/nav'
+import Routes from './routes';
 
 function App() {
   return (
-    <div className="App">
-      <Nav/>
-      <Modulo/> 
-    </div>
+    <Routes />
   );
 }
 
